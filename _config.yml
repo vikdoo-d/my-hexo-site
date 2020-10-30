@@ -7,13 +7,6 @@ title: Vikdoo's Blog
 subtitle: '欢迎来到现实的世界，这里糟透了，但你会喜欢的！'
 description: 'Vikdoo的个人博客'
 keywords: 
-- vikdoo 
-- Vikdoo
-- fgdong 
-- 董康 
-- 董富贵 
-- vikdoo's blog 
-- Vikdoo's Blog 
 author: Vikdoo
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -111,9 +104,9 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@www.vikdoo.com:/home/git/hexo.git
-  branch: master
+  type:
+  repo: 
+  branch:
 
 # Search
 # link: https://github.com/wzpan/hexo-generator-search
