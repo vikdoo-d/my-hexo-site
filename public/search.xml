@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>总结搭建博客的过程-基于Hexo + Git + ButterFly搭建个人网站（一）</title>
+      <link href="1028151815.html"/>
+      <url>1028151815.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言-·-说明"><a href="#前言-·-说明" class="headerlink" title="前言 · 说明"></a>前言 · 说明</h1><div class="note info flat"><p>这一篇主要介绍如何使用hexo搭建GitHub.io网站</p><p>我自己的网站：<a href="https://www.vikdoo.com/">https://www.vikdoo.com</a></p><p>使用Hexo+Butterfly主题+Git+阿里云ECS搭建</p></div><h2 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h2><p>More info: <a href="https://hexo.io/docs/">hexo文档</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> git </tag>
+            
+            <tag> node.js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
